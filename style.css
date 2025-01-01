@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Manrope:wght@200..800&display=swap');
+
+
+*{
+    color: white;
+    font-family:  "Manrope";
+}
+
+body{
+    background-color: #0A0A0A;
+}
+
+nav{
+    
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 25px 60px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    
+    
+}
+ul li a{
+    text-decoration: none;
+    margin-right: 32px;
+    color: #C7C7C7;
+    font-size: 16px;
+
+}
+.titlename{
+    font-family: Bebas Neue;
+    font-size: 32px;
+    color: #C7C7C7;
+
+}
+.headersection{
+    display: flex;
+    padding: 30px 100px 80px;
+    align-items: center;
+    justify-content: space-between;
+}
+h1{
+    font-family: Bebas Neue;
+    font-size: 101px;
+}
+.propic{
+    border-radius: 16px;
+}
+
+.mainhadding{
+    font-family: Bebas Neue;
+    font-size: 101px;
+
+    margin-bottom: 0px;
+    color: white;
+}
+.discription{
+    color: #C7C7C7;
+    font-size: 18px;
+    margin-top: 0px;
+
+}
+.primary{
+    background-color: #D3E97A;
+    color: #0A0A0A;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 100px;
+    padding: 15px;
+
+}
+.iconesoratehobe{
+    margin-left: 15px;
+}
+
+.iconeoflink{
+    
+}
+.borohou{
+    text-align: center;
+    height: 20px;
+    width: 20px;
+    padding: 15px;
+    background-color: #222222;
+    border-radius: 50%;
+    color: #D3E97A;
+    margin-left: 15px;
+}
+.hr{
+    color: #484848;
+}
+.project{
+    /* height: 600px;
+    width: 600px; */
+}
+main{
+    margin: 0px 100px;
+    color: white;
+}
+.prowork{
+    display: flex;
+    margin-top: 80px;
+    
+}
+.features{
+    font-size: 76px;
+    font-weight: 400;
+    color: white;
+    font-family:  Bebas Neue;
+    margin-bottom: 0px;
+}
+.feturepic{
+    padding: 125px 57px;
+}
+.uthena{
+    padding-top: 26px;
+    padding-left: 16px;
+    margin: 0px;
+}
+.uthena span{
+    background-color: #0a0a0a;
+    padding: 8px 16px;
+    border-radius: 25px;
+
+}
+.proyojon{
+    background-color: #1a1a1a;
+    border-radius: 12px;
+}
